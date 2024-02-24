@@ -1,0 +1,21 @@
+body{
+	background-image: linear-gradient(to right top, #f1e733, #25d9b8, #14c0e7, #0a73aa, #7ee295);
+}
+#start-btn{
+    width: 40%;
+}
+#camera{
+    width:325px;
+    height: 255px;
+    border: 1px solid purple;
+}
+#logo_img{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox{
+    width: 300px;
+}
+img:hover{
+    border-radius: 140px;
+}
